@@ -52,4 +52,13 @@ You know why you´re here <br>
 <a href="https://rdkstar.github.io/ej29.2-Sistema_solar_(Tenorio) - copia.html"> Ejercicio 29.2</a> <br>
 <a href="https://rdkstar.github.io/ej29.3-deshechos_electronicos_(Tenorio) - copia.html"> Ejercicio 29.3</a> <br>
 
+<div style="text-align: center;">
+        <iframe
+        name="pag"
+        src="https://github.com/RDKStar/rdkstar.github.io/" 
+        width="1250" 
+        height="750"
+        style="position: absolute; top: 50px; left: 200px; border: none;">
+</iframe>
+
 Bleh :b
