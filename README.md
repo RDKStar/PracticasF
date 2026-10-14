@@ -1,7 +1,41 @@
 You know why you´re here <br>
 <h1> Archivos </h1>
 <a href="https://github.com/RDKStar/rdkstar.github.io/"> Repositorio principal ;3 </a> <br>
+<h1> Paginas web </h1>
 <a href="https://rdkstar.github.io/ej1-Estructura_de_HTML_(Tenorio).html"> Ejercicio 1 </a> <br>
 <a href="https://rdkstar.github.io/ej2-Definicion_de_estilos_(Tenorio).html"> Ejercicio 2 </a> <br>
 <a href="https://rdkstar.github.io/ej3-definicion_de_elemntos_(Tenorio).html"> Ejercicio 3 </a> <br>
-<a href="https://rdkstar.github.io/"> Ejercicio </a> <br>
+<a href="https://rdkstar.github.io/ej4-Breaker_(Tenorio).html"> Ejercicio 4 </a> <br>
+<a href="https://rdkstar.github.io/ej5-1er,2do_titulos_(Tenorio).html"> Ejercicio 5 </a> <br>
+<a href="https://rdkstar.github.io/ej6-Definicion_en_cabecera_(Tenorio)"> Ejercicio 6 </a> <br>
+<a href="https://rdkstar.github.io/ej7-paragraph_(Tenorio).html"> Ejercicio 7</a> <br>
+<a href="https://rdkstar.github.io/ej8-deshechos_electronicos_(Tenori0).html"> Ejercicio 8</a> <br>
+<a href="https://rdkstar.github.io/ej9-propiedades_relacionadas_a_fuentes_(Tenorio).html"> Ejercicio 9</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 10</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 11</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 12</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 13</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 14</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 15</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 16</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 17</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 18</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 19</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 20</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 21</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 21.2</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 22</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 22.2</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 22-3</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 23</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 24</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 25</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 26</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 27</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 28</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 29</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 29.2</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 29.3</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 31</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 32</a> <br>
+<a href="https://rdkstar.github.io/"> Ejercicio 33</a> <br>
