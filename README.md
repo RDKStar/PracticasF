@@ -9,7 +9,7 @@ You know why you´re here <br>
 <a href="https://rdkstar.github.io/ej5-1er,2do_titulos_(Tenorio).html"> Ejercicio 5 </a> <br>
 <a href="https://rdkstar.github.io/ej6-Definicion_en_cabecera_(Tenorio)"> Ejercicio 6 </a> <br>
 <a href="https://rdkstar.github.io/ej7-paragraph_(Tenorio).html"> Ejercicio 7</a> <br>
-<a href="https://rdkstar.github.io/ej8-deshechos_electronicos_(Tenori0).html"> Ejercicio 8</a> <br>
+<a href="https://rdkstar.github.io/ej8-deshechos_electronicos_(Tenorio).html"> Ejercicio 8</a> <br>
 <a href="https://rdkstar.github.io/ej9-propiedades_relacionadas_a_fuentes_(Tenorio).html"> Ejercicio 9</a> <br>
 <a href="https://rdkstar.github.io/"> Ejercicio 10</a> <br>
 <a href="https://rdkstar.github.io/"> Ejercicio 11</a> <br>
