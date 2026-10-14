@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 You know why you´re here <br>
 <h1> Archivos </h1>
 <a href="https://github.com/RDKStar/rdkstar.github.io/"> Repositorio principal ;3 </a> <br>
@@ -62,3 +67,5 @@ You know why you´re here <br>
 </iframe>
 
 Bleh :b
+</body>
+</html>
